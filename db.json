@@ -1,7 +1,10 @@
 {
     "Source": "http://carnavalmanaus.no.comunidades.net/bairros-de-manaus",
     "Zona Norte": {
-        "Cidade de Deus": 0,
+        "Cidade de Deus": [
+            "Braga Mendes",
+            "Valparaíso"
+        ],
         "Cidade Nova": 0,
         "Colônia Santo Antônio": 0,
         "Colônia Terra Nova": 0,
@@ -74,32 +77,28 @@
         "Colônia Antônio Aleixo": 0,
         "Coroado": 0,
         "Distrito Industrial II": 0,
-        "Gilberto Mestrinho": 0,
-        "Jorge Teixeira": 0,
-        "Mauazinho": 0,
-        "Puraquequara": 0,
-        "São José Operário": 0,
-        "Tancredo Neves": 0,
-        "Zumbi dos Palmares": 0,
-        "sub-bairros (organizar)": [
-            "Acariquara",
-            "Braga Mendes",
+        "Gilberto Mestrinho": [
             "Castanheira",
             "Cidade do Leste",
-            "Colina do Aleixo",
             "Grande Vitória",
-            "João Bosco",
+            "Nova Vitória"
+        ],
+        "Jorge Teixeira": [
             "João Paulo",
-            "Monte Sião",
+            "Monte Sião"
+        ],
+        "Mauazinho": 0,
+        "Puraquequara": 0,
+        "São José Operário": [
+            "Colina do Aleixo"
+        ],
+        "Tancredo Neves": [
             "Nova Conquista",
             "Nova Floresta",
-            "Nova Vitória",
-            "Novo Reino",
-            "Ouro Verde",
-            "Petro",
-            "Santa Inês",
-            "São Lucas",
-            "Valparaíso"
+            "Novo Reino"
+        ],
+        "Zumbi dos Palmares": [
+            "Santa Inês"
         ]
     },
     "Zona Sul": {
@@ -114,7 +113,8 @@
         "Distrito Industrial I": 0,
         "Educandos": 0,
         "Japiim": [
-            "31 de Março"
+            "31 de Março",
+            "Acariquara"
         ],
         "Morro da Liberdade": 0,
         "Nossa Senhora de Aparecida": 0,
@@ -138,11 +138,13 @@
     "Zona Centro-Sul": {
         "Adrianópolis": 0,
         "Aleixo": [
-            "Quarenta"
+            "Quarenta",
+            "Petro"
         ],
         "Chapada": 0,
         "Flores": [
-            "Parque das Laranjeiras"
+            "Parque das Laranjeiras",
+            "João Bosco"
         ],
         "Nossa Senhora das Graças": [
             "Vila Amazonas",
@@ -173,7 +175,8 @@
         "Santo Agostinho": 0,
         "Santo Antônio": [
             "Santo Antônio Areal",
-            "Santo Antônio Manda Brasa"
+            "Santo Antônio Manda Brasa",
+            "São Lucas"
         ],
         "São Jorge": 0,
         "São Raimundo": 0,
@@ -189,7 +192,8 @@
     "Zona Centro-Oeste": {
         "Ajuricaba": 0,
         "Alvorada": [
-            "Promorar"
+            "Promorar",
+            "Ouro Verde"
         ],
         "Bairro da Paz": 0,
         "Dom Pedro": [
