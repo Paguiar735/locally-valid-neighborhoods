@@ -8,9 +8,9 @@
         "Lago Azul": 0,
         "Monte das Oliveiras": 0,
         "Nova Cidade": 0,
-        "Novo Aleixo": 0,
+        "Novo Aleixo": ["Jardim América"],
         "Novo Israel": 0,
-        "Santa Etelvina": 0,
+        "Santa Etelvina": ["Campos Sales"],
         "sub-bairros (organizar)": [
             "Águas Claras",
             "Alfredo Nascimento",
@@ -99,7 +99,7 @@
     "Zona Sul": {
         "Betânia": 0,
         "Cachoeirinha": 0,
-        "Centro": 0,
+        "Centro": ["Santo Antônio Igreja"],
         "Colônia Oliveira Machado": 0,
         "Crespo": 0,
         "Distrito Industrial I": 0,
@@ -149,46 +149,25 @@
         ]
     },
     "Zona Oeste": {
-        "Compensa": 0,
+        "Compensa": ["Vila Marinho"],
         "Glória": 0,
-        "Lírio do Vale": 0,
+        "Lírio do Vale": ["Augusto Montenegro"],
         "Nova Esperança": 0,
-        "Ponta Negra": 0,
+        "Ponta Negra": ["Jardim Europa"],
         "Santo Agostinho": 0,
-        "Santo Antônio": 0,
+        "Santo Antônio": ["Santo Antônio Areal", "Santo Antônio Manda Brasa"],
         "São Jorge": 0,
         "São Raimundo": 0,
-        "Tarumã": 0,
+        "Tarumã": ["Parque São Pedro", "Parque Riachuelo", "União da Vitória"],
         "Tarumã-Açu": 0,
-        "Vila da Prata": 0,
-        "sub-bairros (organizar)": [
-            "Augusto Montenegro",
-            "Campos Sales",
-            "Jardim América",
-            "Jardim Europa",
-            "Santo Antônio Areal",
-            "Santo Antônio Igreja",
-            "Santo Antônio Manda Brasa",
-            "União da Vitória",
-            "Vila Marinho"
-        ]
+        "Vila da Prata": 0
     },
     "Zona Centro-Oeste": {
-        "Alvorada": 0,
+        "Ajuricaba": 0,
+        "Alvorada": ["Promorar"],
         "Bairro da Paz": 0,
-        "Dom Pedro": 0,
-        "Planalto": 0,
-        "Redenção": 0,
-        "sub-bairros (organizar)": [
-            "Ajuricaba",
-            "Campos Elíseos",
-            "Déborah",
-            "Hileia",
-            "Jardim Versailles",
-            "Kíssia",
-            "Parque Riachuelo",
-            "Promorar",
-            "São Pedro"
-        ]
+        "Dom Pedro": ["Kíssia"],
+        "Planalto": ["Campos Elíseos", "Jardim Versalles"],
+        "Redenção": ["Hileia"]
     }
 }
