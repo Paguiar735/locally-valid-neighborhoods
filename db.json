@@ -5,12 +5,18 @@
         "Cidade Nova": 0,
         "Colônia Santo Antônio": 0,
         "Colônia Terra Nova": 0,
-        "Lago Azul": 0,
+        "Lago Azul": [
+            "Morada do Sol"
+        ],
         "Monte das Oliveiras": 0,
         "Nova Cidade": 0,
-        "Novo Aleixo": ["Jardim América"],
+        "Novo Aleixo": [
+            "Jardim América"
+        ],
         "Novo Israel": 0,
-        "Santa Etelvina": ["Campos Sales"],
+        "Santa Etelvina": [
+            "Campos Sales"
+        ],
         "sub-bairros (organizar)": [
             "Águas Claras",
             "Alfredo Nascimento",
@@ -99,75 +105,102 @@
     "Zona Sul": {
         "Betânia": 0,
         "Cachoeirinha": 0,
-        "Centro": ["Santo Antônio Igreja"],
+        "Centro": [
+            "Santo Antônio Igreja",
+            "Getúlio Vargas"
+        ],
         "Colônia Oliveira Machado": 0,
         "Crespo": 0,
         "Distrito Industrial I": 0,
         "Educandos": 0,
-        "Japiim": 0,
+        "Japiim": [
+            "31 de Março"
+        ],
         "Morro da Liberdade": 0,
         "Nossa Senhora de Aparecida": 0,
         "Petrópolis": 0,
         "Praça 14 de Janeiro": 0,
         "Presidente Vargas": 0,
-        "Raiz": 0,
+        "Raiz": [
+            "Nova República"
+        ],
         "Santa Luzia": 0,
-        "São Francisco": 0,
-        "São Lázaro": 0,
-        "Vila Buriti": 0,
-        "sub-bairros (organizar)": [
-            "Ceasa",
-            "Getúlio Vargas",
-            "Lagoa Verde",
-            "Morada do Sol",
-            "Nova República",
-            "Quarenta",
-            "São Sebastião",
-            "31 de Março",
-            "22 de Outubro"
+        "São Francisco": [
+            "São Sebastião"
+        ],
+        "São Lázaro": [
+            "Lagoa Verde"
+        ],
+        "Vila Buriti": [
+            "Ceasa"
         ]
     },
     "Zona Centro-Sul": {
         "Adrianópolis": 0,
-        "Aleixo": 0,
+        "Aleixo": [
+            "Quarenta"
+        ],
         "Chapada": 0,
-        "Flores": 0,
-        "Nossa Senhora das Graças": 0,
-        "Parque 10 de Novembro": 0,
-        "São Geraldo": 0,
-        "sub-bairros (organizar)": [
-            "Bairro da União",
-            "Eldorado",
-            "Jardim Amazonas",
-            "Jardim Primavera",
-            "Jardim Sakura",
-            "Parque das Laranjeiras",
-            "Parque Shangri-lá",
+        "Flores": [
+            "Parque das Laranjeiras"
+        ],
+        "Nossa Senhora das Graças": [
+            "Vila Amazonas",
+            "Vieiralves"
+        ],
+        "Parque 10 de Novembro": [
             "Portal do Japão",
-            "Vieiralves",
-            "Vila Amazonas"
-        ]
+            "Parque Shangri-lá",
+            "Jardim Sakura",
+            "Jardim Amazonas",
+            "Eldorado",
+            "Bairro da União"
+        ],
+        "São Geraldo": 0
     },
     "Zona Oeste": {
-        "Compensa": ["Vila Marinho"],
+        "Compensa": [
+            "Vila Marinho"
+        ],
         "Glória": 0,
-        "Lírio do Vale": ["Augusto Montenegro"],
+        "Lírio do Vale": [
+            "Augusto Montenegro"
+        ],
         "Nova Esperança": 0,
-        "Ponta Negra": ["Jardim Europa"],
+        "Ponta Negra": [
+            "Jardim Europa"
+        ],
         "Santo Agostinho": 0,
-        "Santo Antônio": ["Santo Antônio Areal", "Santo Antônio Manda Brasa"],
+        "Santo Antônio": [
+            "Santo Antônio Areal",
+            "Santo Antônio Manda Brasa"
+        ],
         "São Jorge": 0,
         "São Raimundo": 0,
-        "Tarumã": ["Parque São Pedro", "Parque Riachuelo", "União da Vitória"],
+        "Tarumã": [
+            "Parque São Pedro",
+            "Parque Riachuelo",
+            "União da Vitória",
+            "Jardim Primavera"
+        ],
         "Tarumã-Açu": 0,
         "Vila da Prata": 0
     },
     "Zona Centro-Oeste": {
         "Ajuricaba": 0,
-        "Alvorada": ["Promorar"],
+        "Alvorada": [
+            "Promorar"
+        ],
         "Bairro da Paz": 0,
-        "Dom Pedro": ["Kíssia"],
-        "Planalto": ["Campos Elíseos", "Jardim Versalles"],
-        "Redenção": ["Hileia"]
+        "Dom Pedro": [
+            "Kíssia"
+        ],
+        "Planalto": [
+            "Campos Elíseos",
+            "Jardim Versalles"
+        ],
+        "Redenção": [
+            "Hileia"
+        ]
     }
 }
