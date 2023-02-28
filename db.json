@@ -3,48 +3,22 @@
     "Zona Norte": {
         "Cidade de Deus": [
             "Braga Mendes",
-            "Valparaíso"
-        ],
-        "Cidade Nova": 0,
-        "Colônia Santo Antônio": 0,
-        "Colônia Terra Nova": 0,
-        "Lago Azul": [
-            "Morada do Sol"
-        ],
-        "Monte das Oliveiras": 0,
-        "Nova Cidade": 0,
-        "Novo Aleixo": [
-            "Jardim América"
-        ],
-        "Novo Israel": 0,
-        "Santa Etelvina": [
-            "Campos Sales"
-        ],
-        "sub-bairros (organizar)": [
-            "Águas Claras",
+            "Valparaíso",
             "Alfredo Nascimento",
             "Aliança com Deus",
+            "Fazendinha",
+            "Francisca Mendes",
+            "Gustavo Nascimento"
+        ],
+        "Cidade Nova": [
             "Amadeu Botelho",
             "Amazonino Mendes",
             "Américo Medeiros",
-            "Boas Novas",
-            "Carlos Braga",
-            "Colônia Cachoeira Grande",
-            "Colônia Japonesa",
-            "Fazendinha",
-            "Francisca Mendes",
             "Galileia",
-            "Gustavo Nascimento",
-            "Ismail Aziz",
             "Jardim Canaranas",
-            "Jardim Independente",
-            "Jardim Paulista",
-            "Jesus me Deu",
             "José Bonifácio",
-            "Manôa",
-            "Monte Pascoal",
+            "Manoa",
             "Monte Sinai",
-            "Mundo Novo",
             "Nossa Senhora de Fátima",
             "Nossa Senhora do Perpétuo Socorro",
             "Núcleo 3",
@@ -64,19 +38,39 @@
             "Núcleo 24",
             "Omar Aziz",
             "Parque das Garças",
-            "Parque das Nações",
-            "Parque dos Buritis",
-            "Parque dos Ingleses",
             "Riacho Doce",
-            "Vale do Sinai",
+            "Vale do Sinai"
+        ],
+        "Colônia Santo Antônio": [],
+        "Colônia Terra Nova": [],
+        "Lago Azul": [
+            "Morada do Sol",
+            "Jesus me Deu"
+        ],
+        "Monte das Oliveiras": [
+            "Boas Novas",
+            "Monte Pascoal"
+        ],
+        "Nova Cidade": [
+            "Mundo Novo",
+            "Parque dos Buritis"
+        ],
+        "Novo Aleixo": [
+            "Jardim América",
+            "Colônia Cachoeira Grande"
+        ],
+        "Novo Israel": [],
+        "Santa Etelvina": [
+            "Campos Sales",
             "Vitória Régia"
-        ]
+        ],
+        "Águas Claras": []
     },
     "Zona Leste": {
-        "Armando Mendes": 0,
-        "Colônia Antônio Aleixo": 0,
-        "Coroado": 0,
-        "Distrito Industrial II": 0,
+        "Armando Mendes": [],
+        "Colônia Antônio Aleixo": [],
+        "Coroado": [],
+        "Distrito Industrial II": [],
         "Gilberto Mestrinho": [
             "Castanheira",
             "Cidade do Leste",
@@ -85,10 +79,11 @@
         ],
         "Jorge Teixeira": [
             "João Paulo",
-            "Monte Sião"
+            "Monte Sião",
+            "Carlos Braga"
         ],
-        "Mauazinho": 0,
-        "Puraquequara": 0,
+        "Mauazinho": [],
+        "Puraquequara": [],
         "São José Operário": [
             "Colina do Aleixo"
         ],
@@ -102,29 +97,29 @@
         ]
     },
     "Zona Sul": {
-        "Betânia": 0,
-        "Cachoeirinha": 0,
+        "Betânia": [],
+        "Cachoeirinha": [],
         "Centro": [
             "Santo Antônio Igreja",
             "Getúlio Vargas"
         ],
-        "Colônia Oliveira Machado": 0,
-        "Crespo": 0,
-        "Distrito Industrial I": 0,
-        "Educandos": 0,
+        "Colônia Oliveira Machado": [],
+        "Crespo": [],
+        "Distrito Industrial I": [],
+        "Educandos": [],
         "Japiim": [
             "31 de Março",
             "Acariquara"
         ],
-        "Morro da Liberdade": 0,
-        "Nossa Senhora de Aparecida": 0,
-        "Petrópolis": 0,
-        "Praça 14 de Janeiro": 0,
-        "Presidente Vargas": 0,
+        "Morro da Liberdade": [],
+        "Nossa Senhora de Aparecida": [],
+        "Petrópolis": [],
+        "Praça 14 de Janeiro": [],
+        "Presidente Vargas": [],
         "Raiz": [
             "Nova República"
         ],
-        "Santa Luzia": 0,
+        "Santa Luzia": [],
         "São Francisco": [
             "São Sebastião"
         ],
@@ -136,15 +131,19 @@
         ]
     },
     "Zona Centro-Sul": {
-        "Adrianópolis": 0,
+        "Adrianópolis": [],
         "Aleixo": [
             "Quarenta",
-            "Petro"
+            "Petro",
+            "Jardim Paulista"
         ],
-        "Chapada": 0,
+        "Chapada": [
+            "Parque dos Ingleses"
+        ],
         "Flores": [
             "Parque das Laranjeiras",
-            "João Bosco"
+            "João Bosco",
+            "Parque das Nações"
         ],
         "Nossa Senhora das Graças": [
             "Vila Amazonas",
@@ -158,44 +157,45 @@
             "Eldorado",
             "Bairro da União"
         ],
-        "São Geraldo": 0
+        "São Geraldo": []
     },
     "Zona Oeste": {
         "Compensa": [
             "Vila Marinho"
         ],
-        "Glória": 0,
+        "Glória": [],
         "Lírio do Vale": [
             "Augusto Montenegro"
         ],
-        "Nova Esperança": 0,
+        "Nova Esperança": [],
         "Ponta Negra": [
             "Jardim Europa"
         ],
-        "Santo Agostinho": 0,
+        "Santo Agostinho": [],
         "Santo Antônio": [
             "Santo Antônio Areal",
             "Santo Antônio Manda Brasa",
             "São Lucas"
         ],
-        "São Jorge": 0,
-        "São Raimundo": 0,
+        "São Jorge": [],
+        "São Raimundo": [],
         "Tarumã": [
             "Parque São Pedro",
             "Parque Riachuelo",
             "União da Vitória",
-            "Jardim Primavera"
+            "Jardim Primavera",
+            "Ismail Aziz"
         ],
-        "Tarumã-Açu": 0,
-        "Vila da Prata": 0
+        "Tarumã-Açu": [],
+        "Vila da Prata": []
     },
     "Zona Centro-Oeste": {
-        "Ajuricaba": 0,
+        "Ajuricaba": [],
         "Alvorada": [
             "Promorar",
             "Ouro Verde"
         ],
-        "Bairro da Paz": 0,
+        "Bairro da Paz": [],
         "Dom Pedro": [
             "Kíssia"
         ],
