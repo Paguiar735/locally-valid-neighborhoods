@@ -1,0 +1,12 @@
+{
+    "Zona da Cidade": {
+        "Bairro 1 que não possui sub-bairos (bairros não oficiais dentro dele)": [],
+        "Bairro 2": [
+            "Sub-bairro 1 do Bairro 2",
+            "Sub-bairro 2 do Bairro 2"
+        ],
+        "Bairro 3": [
+            "Sub-bairro 1 do Bairro 3"
+        ]
+    }
+}
