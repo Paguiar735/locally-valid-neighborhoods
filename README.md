@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Paguiar735/manaus-neighborhoods">Manaus Neighborhoods</a></h1>
+<h1 align="center"><a href="https://github.com/Paguiar735/locally-valid-neighborhoods">Manaus Neighborhoods</a></h1>
 
 <p align="center">
     <br>
